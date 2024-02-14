@@ -13,3 +13,5 @@ The paper also discusses the implementation details including hardware setup, so
 The research acknowledges the support and guidance of Dr. Debopam Acharya and Dr. Divya Lohani, and references several related works in the field of smart parking systems.
 
 Overall, the paper presents a comprehensive solution to urban parking challenges using IoT technology, with potential benefits for reducing traffic congestion, improving air quality, and enhancing the user experience.
+
+Read complete research paper from [here](https://drive.google.com/file/d/1p0VtVOl9rQ5C1hFjC8intpw6-tiBU3MQ/view?usp=sharing).
